@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/flower-shop/static/css/main.5b303bd7.css",
+    "main.js": "/flower-shop/static/js/main.b92bc7b6.js",
+    "static/media/default.png": "/flower-shop/static/media/default.51d7ff30116e77b31be9.png",
+    "index.html": "/flower-shop/index.html",
+    "main.5b303bd7.css.map": "/flower-shop/static/css/main.5b303bd7.css.map",
+    "main.b92bc7b6.js.map": "/flower-shop/static/js/main.b92bc7b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b303bd7.css",
+    "static/js/main.b92bc7b6.js"
+  ]
+}
