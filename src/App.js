@@ -10,10 +10,7 @@ function App() {
         <FlowerList elems = {flowers} />
       </Section>  
       <Section />
-      
-      {/*   */}
-       
-     
+    
     </div>
   );
 }
